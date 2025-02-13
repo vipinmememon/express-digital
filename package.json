@@ -1,0 +1,20 @@
+{
+  "name": "02_express_practice",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node script.js",
+    "dev": "nodemon script.js"
+  },
+  "keywords": [],
+  "author": "vipin kumar",
+  "license": "ISC",
+  "description": "this is a practice of epressjs",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
